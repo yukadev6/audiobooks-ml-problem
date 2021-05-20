@@ -1,0 +1,1 @@
+This is a business case study and classification problem in machine learning. The task was to create a machine learning algorithm based on data from an Audiobook app that can predict if a customer will buy again from the Audiobook company. 
